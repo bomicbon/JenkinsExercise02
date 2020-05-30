@@ -43,6 +43,8 @@ public class LoginTests {
 		CM.gotoURL(getURL);
 	}
 	
+	/*
+	
 	@AfterMethod(alwaysRun=true)
 	public void tearDown(ITestResult it) throws Exception {
 		ScreenCapture ScreenCapture = new ScreenCapture(driver);
@@ -167,4 +169,6 @@ public class LoginTests {
 	public void testcase10() throws InterruptedException {
 		
 	}
+	
+	*/
 }
