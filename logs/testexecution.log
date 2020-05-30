@@ -1,0 +1,34 @@
+[main] 10:36:53,171 INFO  [com.jass.common.CommonMethods] OPeninng Chrome browser
+[main] 10:36:55,683 INFO  [com.jass.common.CommonMethods] OPeninng the URL=http://107.170.213.234/catalog/index.php
+[main] 10:36:55,739 INFO  [com.jass.common.CommonMethods] log yourself in trying to click
+[main] 10:36:55,948 INFO  [com.jass.common.CommonMethods] log yourself in clicked 
+[main] 10:36:55,979 INFO  [com.jass.common.CommonMethods] trying to set the value
+[main] 10:36:56,083 INFO  [com.jass.common.CommonMethods] ecalix@test.com entered
+[main] 10:36:56,106 INFO  [com.jass.common.CommonMethods] trying to set the value
+[main] 10:36:56,193 INFO  [com.jass.common.CommonMethods] test123 entered
+[main] 11:30:39,358 INFO  [com.jass.common.CommonMethods] OPeninng Chrome browser
+[main] 11:30:41,897 INFO  [com.jass.common.CommonMethods] OPeninng the URL=http://107.170.213.234/catalog/index.php
+[main] 11:30:41,953 INFO  [com.jass.common.CommonMethods] log yourself in trying to click
+[main] 11:30:42,145 INFO  [com.jass.common.CommonMethods] log yourself in clicked 
+[main] 11:30:42,172 INFO  [com.jass.common.CommonMethods] trying to set the value
+[main] 11:30:42,291 INFO  [com.jass.common.CommonMethods] ecalix@test.com entered
+[main] 11:30:42,316 INFO  [com.jass.common.CommonMethods] trying to set the value
+[main] 11:30:42,405 INFO  [com.jass.common.CommonMethods] test123 entered
+[main] 11:30:42,430 INFO  [com.jass.common.CommonMethods] Sign In trying to click
+[main] 11:30:42,672 INFO  [com.jass.common.CommonMethods] Sign In clicked 
+[main] 11:30:42,697 INFO  [com.jass.common.CommonMethods] Expected TextWelcome to iBusiness is Verified
+[main] 11:30:42,722 INFO  [com.jass.common.CommonMethods] Log Off trying to click
+[main] 11:30:42,920 INFO  [com.jass.common.CommonMethods] Log Off clicked 
+[main] 11:30:43,310 INFO  [com.jass.common.ScreenCapture] Screen Name:=LoginTests_testcase01
+[main] 11:30:43,320 INFO  [com.jass.common.ScreenCapture] <a href= C:\Users\urian\eclipse-workspace\mySecondMavenProject\screenshots\application\cycle105-16-2020_11.30.43_LoginTests_testcase01.jpg target='_blank' >05-16-2020_11.30.43_LoginTests_testcase01.jpg</a>
+[main] 11:30:43,922 INFO  [com.jass.common.CommonMethods] close browser
+[main] 20:16:32,153 INFO  [com.jass.common.CommonMethods] OPeninng Chrome browser
+[main] 20:16:34,841 INFO  [com.jass.common.CommonMethods] OPeninng the URL=http://107.170.213.234/catalog/index.php
+[main] 20:16:34,901 INFO  [com.jass.common.CommonMethods] Expected TextWelcome to iBusiness is Verified
+[main] 20:17:35,083 INFO  [com.jass.common.CommonMethods] OPeninng Chrome browser
+[main] 20:17:37,758 INFO  [com.jass.common.CommonMethods] OPeninng the URL=http://107.170.213.234/catalog/index.php
+[main] 20:17:37,815 INFO  [com.jass.common.CommonMethods] Expected TextWelcome to iBusiness is Verified
+[main] 20:19:46,923 INFO  [com.jass.common.CommonMethods] OPeninng Chrome browser
+[main] 20:19:49,565 INFO  [com.jass.common.CommonMethods] OPeninng the URL=http://107.170.213.234/catalog/index.php
+[main] 20:19:49,628 INFO  [com.jass.common.CommonMethods] Expected TextWelcome to iBusiness is Verified
+[main] 20:19:50,228 INFO  [com.jass.common.CommonMethods] close browser

@@ -1,0 +1,84 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 5649555100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "homePageSteps.setUp()"
+            }
+          }
+        ],
+        "line": 6,
+        "name": "Verify Home Page Loaded",
+        "description": "",
+        "id": "title-of-your-feature;verify-home-page-loaded",
+        "after": [
+          {
+            "result": {
+              "duration": 598140900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "homePageSteps.tearDown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 452857000,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I open my Home Page",
+            "match": {
+              "location": "homePageSteps.openHomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 50754600,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "Check the home page title is correct",
+            "match": {
+              "location": "homePageSteps.verifyHomePageTitle()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 5,
+            "name": "@tag1"
+          },
+          {
+            "line": 5,
+            "name": "@reg"
+          }
+        ]
+      }
+    ],
+    "name": "Title of your feature",
+    "description": "I want to use this template for my feature file",
+    "id": "title-of-your-feature",
+    "keyword": "Feature",
+    "uri": "homePage.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@tagF"
+      }
+    ]
+  }
+]

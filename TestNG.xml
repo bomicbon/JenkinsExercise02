@@ -1,0 +1,18 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+  
+<suite name="Suite1" verbose="1" >
+	
+ <listeners>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+    <listener class-name="org.testng.reporters.FailedReporter"/>
+  </listeners>   
+
+  <parameter name="sBrowserType" value="Chrome"/>
+  <test name="Regression1" >
+    <classes>
+       <class name="com.jass.tests.LoginTests" />
+    </classes>
+  </test>
+ 
+</suite>
