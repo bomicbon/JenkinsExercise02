@@ -11,7 +11,7 @@
   <parameter name="sBrowserType" value="Chrome"/>
   <test name="Regression1" >
     <classes>
-       <class name="com.jass.tests.LoginTests" />
+       <class name="com.platform.project.runner.AndroidBrowserTest" />
     </classes>
   </test>
  
